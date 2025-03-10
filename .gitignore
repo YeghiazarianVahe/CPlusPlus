@@ -1,0 +1,53 @@
+# Visual Studio specific files
+.vs/
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.filters
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+*.exp
+*.idb
+*.tlog
+*.lastbuildstate
+*.ipch
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+CMakeInstall.cmake
+CMakeLists.txt.user
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# IDE-specific settings
+*.ncb
+*.sdf
+*.opensdf
+
+# Others
+*.cache
+*.dmp
+*.pch
+*.iobj
+*.ipdb
