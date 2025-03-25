@@ -50,7 +50,7 @@ Welcome to the **Professional C++ & STL Roadmap** repository. This is a structur
 
 ## 📂 Repository Structure
 ```
-cpp-stl-roadmap/
+CPlusPlus/
 ├── basics/
 ├── oops/
 ├── templates/
