@@ -20,9 +20,9 @@ Master essential concepts of OOP, including abstraction, encapsulation, inherita
 |-------------------------|------------------------------------------------------------------|------------------------|
 | Fraction Class          | Arithmetic with fractions (`+`, `-`, `*`, `/`, `==`)             | [`FractionClass`](./FractionClass) |
 | Bank System             | Polymorphism with Accounts (`Savings`, `Checking`)               | [`BankSystem`](./BankSystem) |
-| Employee Hierarchy      | Virtual salary calculations (`Manager`, `Developer`, `Intern`)   | [`EmployeeHierarchy`](./EmployeeHierarchy) |
+| Employee Hierarchy      | Virtual salary calculations (`Manager`, `Developer`, `Intern`)   | [`EmployeeHierarchy`](./EmployeeSystem) |
 | Resource Manager        | RAII, managing resources safely                                  | [`ResourceManager`](./ResourceManager) |
-| Custom String Class     | Custom dynamic string implementation                             | [`CustomStringClass`](./CustomStringClass) |
+| Custom String Class     | Custom dynamic string implementation                             | [`CustomStringClass`](./custom_string) |
 
 ---
 
